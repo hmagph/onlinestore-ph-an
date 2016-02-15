@@ -125,7 +125,7 @@ webide:
   service_id: orion
 
 #Performance Insights
-monitoring
+monitoring:
   service_id: apm
 
 #Active Deploy

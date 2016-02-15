@@ -124,6 +124,10 @@ alerting:
 webide:
   service_id: orion
 
+#Performance Insights
+monitoring
+  service_id: apm
+
 #Active Deploy
 greenblue:
   service_id: activedeploy
